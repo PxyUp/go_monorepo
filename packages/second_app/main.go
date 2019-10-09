@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go_monogrepo/packages/second/router"
+	"go_monogrepo/packages/second_app/router"
 	"fmt"
 )
 
